@@ -1,0 +1,4 @@
+/* Enter your bot's token below */
+{ "token"  : "",
+  "prefix" : "+"
+}
